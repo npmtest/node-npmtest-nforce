@@ -9,7 +9,7 @@
 <tspan x="10" y="106">  ├─┬ faye@1.2.3 </tspan>
 <tspan x="10" y="122">  │ ├── asap@2.0.5 </tspan>
 <tspan x="10" y="138">  │ ├─┬ csprng@0.1.2 </tspan>
-<tspan x="10" y="154">  │ │ └── sequin@0.1.0 </tspan>
+<tspan x="10" y="154">  │ │ └── sequin@0.1.1 </tspan>
 <tspan x="10" y="170">  │ ├─┬ faye-websocket@0.11.1 </tspan>
 <tspan x="10" y="186">  │ │ └─┬ websocket-driver@0.6.5 </tspan>
 <tspan x="10" y="202">  │ │   └── websocket-extensions@0.1.1 </tspan>
@@ -29,7 +29,7 @@
 <tspan x="10" y="426">    ├─┬ form-data@2.1.4 </tspan>
 <tspan x="10" y="442">    │ └── asynckit@0.4.0 </tspan>
 <tspan x="10" y="458">    ├─┬ har-validator@4.2.1 </tspan>
-<tspan x="10" y="474">    │ ├─┬ ajv@4.11.6 </tspan>
+<tspan x="10" y="474">    │ ├─┬ ajv@4.11.7 </tspan>
 <tspan x="10" y="490">    │ │ ├── co@4.6.0 </tspan>
 <tspan x="10" y="506">    │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
 <tspan x="10" y="522">    │ │   └── jsonify@0.0.0 </tspan>
