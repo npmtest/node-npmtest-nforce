@@ -1,4 +1,7 @@
-# test coverage for  [nforce (v1.7.0)](https://github.com/kevinohara80/nforce#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nforce.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nforce) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nforce.svg)](https://travis-ci.org/npmtest/node-npmtest-nforce)
+# npmtest-nforce
+
+#### test coverage for  [nforce (v1.7.0)](https://github.com/kevinohara80/nforce#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nforce.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nforce) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nforce.svg)](https://travis-ci.org/npmtest/node-npmtest-nforce)
+
 #### nforce is a REST API wrapper for force.com, database.com, and salesforce.com
 
 [![NPM](https://nodei.co/npm/nforce.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nforce)
