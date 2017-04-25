@@ -1,6 +1,6 @@
 # npmtest-nforce
 
-#### test coverage for  [nforce (v1.7.0)](https://github.com/kevinohara80/nforce#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nforce.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nforce) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nforce.svg)](https://travis-ci.org/npmtest/node-npmtest-nforce)
+#### basic test coverage for  [nforce (v1.7.0)](https://github.com/kevinohara80/nforce#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nforce.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nforce) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nforce.svg)](https://travis-ci.org/npmtest/node-npmtest-nforce)
 
 #### nforce is a REST API wrapper for force.com, database.com, and salesforce.com
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nforce/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nforce/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nforce/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nforce/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nforce/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nforce/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nforce/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nforce/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nforce/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nforce/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nforce/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nforce/build/coverage.html/index.html)
 
@@ -104,7 +104,8 @@
         "preversion": "npm test",
         "test": "./node_modules/mocha/bin/mocha ./test --reporter spec"
     },
-    "version": "1.7.0"
+    "version": "1.7.0",
+    "bin": {}
 }
 ```
 
